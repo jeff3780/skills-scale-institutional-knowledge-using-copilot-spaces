@@ -35,7 +35,7 @@ Our approach emphasizes small, testable increments delivered iteratively, with e
 Have suggestions for improving these process docs? We welcome contributions!
 
 To request updates or additions to any process document:
-1. Open an issue using the [**Add/Update Process Docs**](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
+1. Open an issue using the [**Add Content to Project Management Process Docs**](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
 2. Describe the content you'd like to add and why it's needed
 3. Include any proposed text or examples
 4. The process owner will review and incorporate valuable feedback
